@@ -1,0 +1,131 @@
+.header{
+    /* border: 1px solid black; */
+    width: 400px;
+    block-size: 40px;
+    margin-left: 550px;
+    margin-top: 30px;
+    background-color: #5a4530;
+}
+
+.mid1{
+    /* border: 1px solid black; */
+    width: 150px;
+    block-size: 600px;
+    margin-left: 550px;
+    background-color: #8b2942;
+    border-top:1px dashed rgba(255,255,255,0.2);
+    border-bottom:1px dashed rgba(255,255,255,0.2);
+}
+
+.mid2{
+    /* border: 1px solid black; */
+    width: 249.5px;
+    block-size: 600px;
+    margin-left: 700px;
+    margin-top: -705px;
+    border-left: 1px dashed rgba(255,255,255,0.2);
+    background-color: #a13950;
+    border-top:1px dashed rgba(255,255,255,0.2);
+    border-bottom:1px dashed rgba(255,255,255,0.2);
+}
+
+.bottom{
+    /* border: 1px solid black; */
+    width: 400px;
+    block-size: 30px;
+    margin-left: 550px;
+    background-color: #fee1c3;
+}
+
+#star{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#utensils{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: #d96677;
+}
+
+#glass{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#search{
+    margin-left: 130px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.btn{
+    width: 70px;
+    margin-left: 170px;
+    margin-top: 15px;
+    background-color: #5a4530;
+    border-radius: 4px;
+    border-color: #5a4530;
+    padding: 5px;
+    border:1px dashed rgba(255,255,255,0.2);
+    font-family: sans-serif;
+}
+
+#done{
+    color: white;
+}
+
+.sidebar {
+    color: white;
+    opacity: 0.6;
+}
+
+.sidebar-item {
+    padding: 10px 15px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+.si{
+    block-size: 10px;
+    opacity: 0.1;
+    background-color: #9f3245;
+}
+
+.cd{
+    background-color: #701620;
+}
+
+.main-content {
+    color: white;
+}
+
+.menu-item {
+    padding: 16.4px 15px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+img{
+    margin-left: 720px;
+    width: 100px;
+    position: relative;
+    top: -75px;
+}
+
+.num{
+    position: absolute;
+    margin-left: 762px;
+    margin-top: -160px;
+    color: #5a4530;
+}
+
+.circle{
+    position: relative;
+    top: -5px;
+}
